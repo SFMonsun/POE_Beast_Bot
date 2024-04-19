@@ -12,3 +12,18 @@ Soon comming:
 -Able to save settings
 
 -Stat overview of how many beasts have been collected etc.
+
+
+
+1. Guide How to use?
+      1.First use this cic c|al pl|x a|f a to find expensive beasts(might change in other seasons)
+      2. Make sure to have 1 stash (quad is best) renamed to the and coloured like this: (example)
+      3. after taking out all beasts open the beasteriy and your inventory and have orbs inside of it.
+      4. make sure Stash is visible in your screen (first run let checkbox marked(will delete all reds after start)
+      5. the bot will run untill there are no beasts left in the menagery or stash is full
+      
+Controlls: hold ESC to stop the bot
+    
+2. Checkbox delete red beasts
+3. Start button
+
